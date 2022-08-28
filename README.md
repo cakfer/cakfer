@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cakfer
 - 👀 I’m interested in world
-- 🌱 I’m currently learning html,js,php and more
-- 💞️ I’m looking to collaborate on github, cloudflare,netlifi,vercel,gatsby,cyclic and more
+- 🌱 I’m currently learning html, js, php and more
+- 💞️ I’m looking to collaborate on github, cloudflare, netlify, vercel, gatsby, cyclic and more
 - 📫 How to reach me bungferry@my.id
 
 <!---
